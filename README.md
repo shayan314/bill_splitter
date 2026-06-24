@@ -1,13 +1,13 @@
 # 💰 Bill Splitter App
-### MAD University Project — Section B | Flutter
+
 
 ---
 
-## ✅ Sir ki Requirements — Checklist
+## ✅ Sir ki Requirements 
 
 | Requirement | Status |
 |---|---|
-| 5-6 distinct screens | ✅ Splash, Home, Result, History, Settings |
+| 5-6 distinct screens | ✅ Splash, Home, Result, History, Settings 
 | Provider state management | ✅ BillProvider with ChangeNotifier |
 | Data Persistence (SQLite) | ✅ Bill history saved in local DB |
 | Data Persistence (Shared Preferences) | ✅ Settings saved persistently |
@@ -16,24 +16,7 @@
 
 ---
 
-## 📱 Screens
 
-| Screen | Description |
-|---|---|
-| **Splash Screen** | Animated intro, initializes Provider + DB |
-| **Home Screen** | Enter bill, select people & tip, calculate |
-| **Result Screen** | Per-person amount, full breakdown, per-person list |
-| **History Screen** | All saved bill splits from SQLite |
-| **Settings Screen** | Currency, default tip & people (SharedPreferences) |
-
----
-
-## 🚀 How to Run
-
-### Requirements
-- Flutter SDK 3.x: https://flutter.dev/docs/get-started/install
-- Android Studio or VS Code
-- Android emulator or physical device
 
 ### Steps
 
@@ -77,7 +60,6 @@ bill_splitter/
 └── README.md
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -90,17 +72,5 @@ bill_splitter/
 | **shared_preferences** | Persistent Settings |
 | **google_fonts** | Custom Fonts (Poppins) |
 
----
-
-## 📊 Grading Criteria Coverage
-
-| Criteria | Marks | How Covered |
-|---|---|---|
-| UI Design & Layout | 3 | Dark theme, Google Fonts, responsive layout, no overflow |
-| Functionality & Logic | 3 | Correct bill/tip/per-person calculations, input validation |
-| Database/API Integration | 2 | SQLite for history + SharedPreferences for settings |
-| Code Structure | 2 | Provider pattern, separate models/services/screens |
-
----
 
 *MAD Section B — Bill Splitter App*
