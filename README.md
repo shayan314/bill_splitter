@@ -46,4 +46,3 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 
 ---
 
-## 📂 Project Structure
