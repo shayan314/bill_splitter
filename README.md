@@ -31,7 +31,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="230"/>
+  <img src="assets/screenshots/home.jpeg" width="230"/>
   <img src="assets/screenshots/add_expense.png" width="230"/>
   <img src="assets/screenshots/result.png" width="230"/>
 </p>
