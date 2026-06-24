@@ -1,76 +1,53 @@
-# 💰 Bill Splitter App
+# 💸 Bill Splitter App
 
-
----
-
-## ✅ Sir ki Requirements 
-
-| Requirement | Status |
-|---|---|
-| 5-6 distinct screens | ✅ Splash, Home, Result, History, Settings 
-| Provider state management | ✅ BillProvider with ChangeNotifier |
-| Data Persistence (SQLite) | ✅ Bill history saved in local DB |
-| Data Persistence (Shared Preferences) | ✅ Settings saved persistently |
-| Custom Fonts (Google Fonts) | ✅ Poppins throughout |
-| Input Validation | ✅ Form validation on bill amount |
+A modern and simple **Bill Splitting Flutter Application** that helps users fairly divide expenses among friends, groups, or family with accuracy and clarity.
 
 ---
 
+## ✨ Features
 
-
-### Steps
-
-```bash
-# 1. Go to project folder
-cd bill_splitter
-
-# 2. Install dependencies
-flutter pub get
-
-# 3. Run app
-flutter run
-
-# 4. Build APK for submission
-flutter build apk --release
-# APK will be at: build/app/outputs/flutter-apk/app-release.apk
-```
+- 👥 Add multiple participants easily  
+- 💰 Automatic bill splitting calculation  
+- 🧾 Expense tracking per person  
+- 🔄 Real-time balance updates  
+- 📊 Clear who-owes-who breakdown  
+- 📱 Clean and modern UI  
+- ⚡ Fast and lightweight performance  
+- 📂 Simple and intuitive user experience  
 
 ---
-
-## 📁 Project Structure
-
-```
-bill_splitter/
-├── lib/
-│   ├── main.dart                    # Entry point + Provider setup
-│   ├── models/
-│   │   └── bill_model.dart          # Bill data model
-│   ├── providers/
-│   │   └── bill_provider.dart       # State management (Provider)
-│   ├── services/
-│   │   ├── database_service.dart    # SQLite CRUD operations
-│   │   └── preferences_service.dart # SharedPreferences
-│   └── screens/
-│       ├── splash_screen.dart       # Screen 1
-│       ├── home_screen.dart         # Screen 2
-│       ├── result_screen.dart       # Screen 3
-│       ├── history_screen.dart      # Screen 4
-│       └── settings_screen.dart    # Screen 5
-├── pubspec.yaml
-└── README.md
-```
-
 
 ## 🛠️ Tech Stack
 
-| Tech | Usage |
-|---|---|
-| Flutter 3.x | Framework |
-| Dart | Language |
-| **Provider** | State Management |
-| **sqflite** | SQLite - Local Database |
-| **shared_preferences** | Persistent Settings |
-| **google_fonts** | Custom Fonts (Poppins) |
+- Flutter (Dart)  
+- Material Design UI  
+- State Management (SetState / Provider)
 
+---
 
-*MAD Section B — Bill Splitter App*
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="230"/>
+  <img src="assets/screenshots/add_expense.png" width="230"/>
+  <img src="assets/screenshots/result.png" width="230"/>
+</p>
+
+---
+
+## 📂 Project Structure
+
+lib/  
+ ├── screens/  
+ ├── widgets/  
+ ├── models/  
+ ├── services/  
+ └── main.dart  
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/shayan314/bill_splitter.git
