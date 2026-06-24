@@ -1,27 +1,30 @@
 # 💸 Bill Splitter App
 
-A modern and simple **Bill Splitting Flutter Application** that helps users fairly divide expenses among friends, groups, or family with accuracy and clarity.
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Programming-blue?logo=dart)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+A modern **Bill Splitting Flutter Application** that helps users divide expenses fairly among friends, groups, or family with simplicity, speed, and accuracy.
+
+---
+
+## 🚀 Overview
+
+This app automatically calculates shared expenses and shows **who owes whom**, making group payments easy and transparent.
 
 ---
 
 ## ✨ Features
 
-- 👥 Add multiple participants easily  
-- 💰 Automatic bill splitting calculation  
-- 🧾 Expense tracking per person  
-- 🔄 Real-time balance updates  
-- 📊 Clear who-owes-who breakdown  
-- 📱 Clean and modern UI  
-- ⚡ Fast and lightweight performance  
-- 📂 Simple and intuitive user experience  
-
----
-
-## 🛠️ Tech Stack
-
-- Flutter (Dart)  
-- Material Design UI  
-- State Management (SetState / Provider)
+✔ Add multiple participants  
+✔ Automatic bill splitting calculation  
+✔ Expense tracking per user  
+✔ Real-time balance updates  
+✔ Clear debt breakdown  
+✔ Clean Material UI design  
+✔ Fast and lightweight performance  
+✔ Simple user experience  
 
 ---
 
@@ -35,19 +38,12 @@ A modern and simple **Bill Splitting Flutter Application** that helps users fair
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
 
-lib/  
- ├── screens/  
- ├── widgets/  
- ├── models/  
- ├── services/  
- └── main.dart  
+- Flutter (Dart)
+- Material Design UI
+- State Management (SetState / Provider)
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-```bash
-git clone https://github.com/shayan314/bill_splitter.git
+## 📂 Project Structure
