@@ -33,7 +33,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ### 🔐 Login Screen
 
 <p align="center">
-  <img src="./assets/screenshots/login.jpeg" alt="Login Screen" width="250">
+  <img src="./assets/login.jpeg" alt="Login Screen" width="250">
 </p>
 
 ---
@@ -41,7 +41,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ### 🏠 Home Screen
 
 <p align="center">
-  <img src="./assets/screenshots/home.jpeg" alt="Home Screen" width="250">
+  <img src="./assets/home.jpeg" alt="Home Screen" width="250">
 </p>
 
 ---
@@ -49,7 +49,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ### ➕ Add Expense
 
 <p align="center">
-  <img src="./assets/screenshots/add-expense.jpeg" alt="Add Expense" width="250">
+  <img src="./assets/add-expense.jpeg" alt="Add Expense" width="250">
 </p>
 
 ---
@@ -57,7 +57,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ### 👥 Roommates
 
 <p align="center">
-  <img src="./assets/screenshots/roommates.jpeg" alt="Roommates" width="250">
+  <img src="./assets/roommates.jpeg" alt="Roommates" width="250">
 </p>
 
 ---
@@ -65,7 +65,7 @@ This app automatically calculates shared expenses and shows **who owes whom**, m
 ### 💰 Split Summary
 
 <p align="center">
-  <img src="./assets/screenshots/split_summary.jpeg" alt="Split Summary" width="250">
+  <img src="./assets/split_summary.jpeg" alt="Split Summary" width="250">
 </p>
 
 ---
